@@ -1,19 +1,3 @@
-# modal-project
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+I just started learning Vue js. Made this while studying/practicing today.
+It is Modal project that works when you hit either of the buttons.
+Kindly ignore the input tag. I made that while practicing too.
